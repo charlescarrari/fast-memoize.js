@@ -38,7 +38,7 @@
   "devDependencies": {
     "benchmark": "^2.0.0",
     "cli-table2": "^0.2.0",
-    "codecov": "^2.0.2",
+    "codecov": "^3.7.1",
     "covert": "^1.1.0",
     "iMemoized": "0.0.10",
     "jest": "20.0.4",
